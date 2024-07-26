@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "999298464678",
+    "project_id": "green-chat-dbf96",
+    "storage_bucket": "green-chat-dbf96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999298464678:android:a36f82b7d59cacc1ddad67",
+        "android_client_info": {
+          "package_name": "com.example.green_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwwxO16_ABNai81yrGvsuoYS0NXzCsnhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
